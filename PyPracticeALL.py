@@ -194,3 +194,58 @@
 # thislist = ["apple","banana","mango","orange"]
 # [print(i) for i in thislist]
 
+# thislist = ["apple","banana","mango","orange"]
+# x= thislist.count("apple")
+# print(x)
+
+# thislist = ["apple","banana","mango","orange"]
+# thislist.clear()
+# print(thislist)
+
+
+# thislist = ["apple","banana","mango","orange"]
+# thislist.append("carrot")
+# thislist.sort()
+# print(thislist)
+
+# thislist = ["apple","banana","mango","orange"]
+# newlist = list(thislist)
+# print(newlist)
+
+
+# thislist = ["apple","banana","mango","orange"]
+# newlist = ["carrot","grapes"]
+# thislist.extend(newlist)
+# thislist.sort()
+# print(thislist)
+
+# thislist = ["apple","banana","mango","orange"]
+# newlist = ["carrot","grapes"]
+# thislist.extend(newlist)
+# thislist.sort()
+# print(thislist)
+# print(thislist.index("mango"))
+
+# thislist = ["apple","banana","mango","orange"]
+# thislist.insert(1,"apple")
+# print(thislist)
+
+# thislist = ["apple","banana","mango","orange"]
+# thislist.pop(1)
+# print(thislist)
+
+# thislist = ["apple","banana","mango","orange"]
+# thislist.remove("banana")
+# print(thislist)
+
+# thislist = ["apple","banana","mango","orange"]
+# thislist.reverse()
+# print(thislist)
+
+# thislist = ["apple","banana","mango","orange"]
+# thislist.sort(reverse=True)
+# print(thislist)
+
+thislist = ["apple","banana","mango","orange"]
+thislist.sort()
+print(thislist)
