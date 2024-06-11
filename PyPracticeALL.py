@@ -246,6 +246,81 @@
 # thislist.sort(reverse=True)
 # print(thislist)
 
-thislist = ["apple","banana","mango","orange"]
-thislist.sort()
-print(thislist)
+# thislist = ["apple","banana","mango","orange"]
+# thislist.sort()
+# print(thislist)
+
+'''Basic:
+
+Create a list:
+
+Create a list called fruits containing the following items: "apple", "banana", "cherry", "grape".
+Access elements:
+
+Print the second element of the fruits list.
+Print the last element of the fruits list.
+Modify elements:
+
+Change the third element of the fruits list to "orange".
+Add "kiwi" to the end of the fruits list.
+List length:
+
+Find the length of the fruits list.
+Check for membership:
+
+Check if "apple" is present in the fruits list.
+Check if "pineapple" is present in the fruits list.
+Intermediate:
+
+Sort a list:
+
+Create a list called numbers containing the following numbers: 5, 2, 8, 1, 9.
+Sort the numbers list in ascending order.
+Sort the numbers list in descending order.
+Reverse a list:
+
+Reverse the order of elements in the numbers list.
+Remove duplicates:
+
+Create a list called colors containing the following colors: "red", "blue", "green", "red", "yellow", "blue".
+Remove duplicate colors from the colors list.
+Concatenate lists:
+
+Create two lists: list1 with elements [1, 2, 3] and list2 with elements [4, 5, 6].
+Combine the elements of list1 and list2 into a new list called combined_list.
+Find the maximum and minimum:
+
+Find the maximum and minimum values in the numbers list.
+Advanced:
+
+Nested lists:
+Create a nested list called matrix representing a 3x3 matrix:
+matrix = [
+    [1, 2, 3],
+    [4, 5, 6],
+    [7, 8, 9]
+]
+Access the element at row 2, column 1 (which should be 8).
+Print all the elements of the matrix in a formatted way.
+List comprehension:
+Create a new list called squares containing the squares of numbers from 1 to 10 using list comprehension.
+Filtering lists:
+Create a list called numbers containing the following numbers: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10.
+Create a new list called even_numbers containing only the even numbers from numbers using list comprehension.
+Mapping lists:
+Create a list called temperatures containing the following temperatures in Celsius: 25, 28, 30, 22.
+Convert each temperature to Fahrenheit using list comprehension and store the results in a new list called fahrenheit_temperatures.
+Custom sorting:
+Create a list called students containing dictionaries representing student information:
+students = [
+    {"name": "Alice", "age": 20},
+    {"name": "Bob", "age": 19},
+    {"name": "Charlie", "age": 21}
+]
+Sort the students list by age in ascending order.
+Bonus:
+
+Write a function to find the second largest element in a list.
+Write a function to remove all occurrences of a specific element from a list.
+Write a function to check if a list is sorted in ascending order.
+Remember to use the appropriate Python list methods and techniques to solve these problems. Good luck!'''
