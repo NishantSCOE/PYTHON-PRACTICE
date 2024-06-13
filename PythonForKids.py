@@ -62,6 +62,32 @@
 
 # turtle.done()
 
+# n = int(input())
+# if 1<=n<=150:
+#     for i in range(1,n+1):
+#         print(i,end='')
+ 
+# def print_full_name(first, last):
+#     txt = 'Hello %s %s! You just delved into python'
+#     print(txt %(first,last))
+
+# if __name__ == '__main__':
+#     first_name = input()
+#     last_name = input()
+#     print_full_name(first_name, last_name)
+  
+# def mutate_string(string, position, character):
+#     l=list(string)
+#     l.insert(position,character)
+#     string = ''.join(l)
+#     return string
+
+# if __name__ == '__main__':
+#     s = input()
+#     i, c = input().split()
+#     s_new = mutate_string(s, int(i), c)
+#     print(s_new)
+
 
 
 
